@@ -1,0 +1,380 @@
+{
+  "seller": [
+    {
+      "name": "Pratik Dhumal",
+      "password": "Pratik@7350",
+      "email": "pratik1121999@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Gaurav Dhumal",
+      "password": "gaurav@124",
+      "email": "gaurav115@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "bhushan dhoke",
+      "password": "bhushan@500",
+      "email": "bhushan121999@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Shree Khole",
+      "password": "shree@123",
+      "email": "shree@123gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Smarth",
+      "password": "samarth@123",
+      "email": "smarth@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "peter",
+      "password": "peter@123",
+      "email": "peter@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "ck",
+      "password": "ck@456",
+      "email": "ck@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "anil",
+      "password": "anil@123",
+      "email": "anil@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "chach",
+      "password": "ch@123",
+      "email": "ch@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "rushi galhe",
+      "password": "jdjdj5",
+      "email": "gahle@123gmail.com",
+      "id": 12
+    },
+    {
+      "name": "rushi galhe",
+      "password": "jdjdj5",
+      "email": "gahle@123gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Mayurr Kulkarni",
+      "password": "mayurr@123",
+      "email": "mayurr@123gmail.com",
+      "id": 14
+    },
+    {
+      "name": "abc",
+      "password": "abc@123",
+      "email": "abc@gmail.com",
+      "id": 15
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung galaxy",
+      "price": "20000",
+      "color": "black",
+      "category": "mobile",
+      "description": "good Product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Samsung_Galaxy_Z_smartphone.jpg",
+      "id": 11
+    },
+    {
+      "name": "Redmi note 12pro",
+      "price": "20000",
+      "color": "white",
+      "category": "mobile",
+      "description": "good product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Redmi_Note_10_Pro_front_with_in-box_cover.jpg",
+      "id": 12
+    },
+    {
+      "name": "Boat Rocker 255",
+      "price": "50000",
+      "color": "black",
+      "category": "mobile",
+      "description": "Good Product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Headphone-dynamic-premium.png",
+      "id": 15
+    },
+    {
+      "name": "JBL",
+      "price": "1499",
+      "color": "black",
+      "category": "bluetooth earphone",
+      "description": "good product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/AudioQuest_NightHawk_Carbon_headphones_%2833582571334%29.jpg",
+      "id": 16
+    },
+    {
+      "name": "iphone 11",
+      "price": "49000",
+      "color": "blue",
+      "category": "mobile",
+      "description": "good product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/IPhone_XS.jpg",
+      "id": 18
+    },
+    {
+      "name": "Pratik",
+      "price": "jdwjdh",
+      "color": "jdwjwn",
+      "category": "kjwdk",
+      "description": "jdwj",
+      "id": 19
+    },
+    {
+      "name": "",
+      "price": "",
+      "color": "",
+      "category": "",
+      "description": "",
+      "image": "C:\\fakepath\\Screenshot (2).png",
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Pratik",
+      "email": "pratik1121999@gmail.com",
+      "password": "pratik@123",
+      "id": 2
+    },
+    {
+      "name": "anil",
+      "email": "abc@gmail.com",
+      "password": "anil@123",
+      "id": 3
+    },
+    {
+      "name": "Shree Khole",
+      "email": "shree@123gmail.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "Sagar Bankar",
+      "email": "sagar45@gmail.com",
+      "password": "abc@12",
+      "id": 5
+    },
+    {
+      "name": "Jay Karpe",
+      "email": "jay@gmail.com",
+      "password": "jay@12",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "name": "Nikon",
+      "price": "60000",
+      "color": "black",
+      "category": "Camera",
+      "description": "hegceh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nikonf.jpg",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 6,
+      "id": 1
+    },
+    {
+      "name": "Samsung galaxy",
+      "price": "20000",
+      "color": "black",
+      "category": "mobile",
+      "description": "good Product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Samsung_Galaxy_Z_smartphone.jpg",
+      "quantity": 6,
+      "userId": 2,
+      "productId": 11,
+      "id": 2
+    },
+    {
+      "name": "nike5966",
+      "price": "999",
+      "color": "black",
+      "category": "Shoes",
+      "description": "good product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Mens%27_ballroom_shoes%2C_Eurodance_CZ.jpg",
+      "quantity": 1,
+      "productId": 8,
+      "userId": null,
+      "id": 3
+    },
+    {
+      "name": "Boat Rocker 255",
+      "price": "50000",
+      "color": "black",
+      "category": "mobile",
+      "description": "wjjw",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Redmi_Note_10_Pro_front_with_in-box_cover.jpg",
+      "quantity": 1,
+      "productId": 15,
+      "userId": null,
+      "id": 4
+    },
+    {
+      "name": "Hp 15s",
+      "price": "150000",
+      "color": "white",
+      "category": "Laptop",
+      "description": "njbsj",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HP_Laptop_Notebook.png",
+      "quantity": 1,
+      "productId": 7,
+      "userId": null,
+      "id": 5
+    },
+    {
+      "name": "Samsung galaxy",
+      "price": "20000",
+      "color": "black",
+      "category": "mobile",
+      "description": "good Product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Samsung_Galaxy_Z_smartphone.jpg",
+      "quantity": 1,
+      "productId": 11,
+      "userId": null,
+      "id": 7
+    },
+    {
+      "name": "Nikon",
+      "price": "60000",
+      "color": "black",
+      "category": "Camera",
+      "description": "hegceh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nikonf.jpg",
+      "quantity": 1,
+      "productId": 6,
+      "userId": null,
+      "id": 8
+    },
+    {
+      "name": "Nikon",
+      "price": "60000",
+      "color": "black",
+      "category": "Camera",
+      "description": "hegceh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nikonf.jpg",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 6,
+      "id": 9
+    },
+    {
+      "name": "Hp 15s",
+      "price": "150000",
+      "color": "white",
+      "category": "Laptop",
+      "description": "njbsj",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HP_Laptop_Notebook.png",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 7,
+      "id": 10
+    },
+    {
+      "name": "Hp 15s",
+      "price": "150000",
+      "color": "white",
+      "category": "Laptop",
+      "description": "njbsj",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HP_Laptop_Notebook.png",
+      "quantity": 1,
+      "userId": 2,
+      "productId": 7,
+      "id": 11
+    },
+    {
+      "name": "Hp 15s",
+      "price": "45000",
+      "color": "white",
+      "category": "Laptop",
+      "description": "Smart Laptop",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/HP_Laptop_Notebook.png",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 7,
+      "id": 12
+    },
+    {
+      "name": "Nikon",
+      "price": "60000",
+      "color": "black",
+      "category": "Camera",
+      "description": "hegceh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Nikonf.jpg",
+      "quantity": 1,
+      "userId": 1,
+      "productId": 6,
+      "id": 13
+    },
+    {
+      "name": "Samsung galaxy",
+      "price": "20000",
+      "color": "black",
+      "category": "mobile",
+      "description": "good Product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Samsung_Galaxy_Z_smartphone.jpg",
+      "quantity": 1,
+      "productId": 11,
+      "userId": 5,
+      "id": 14
+    },
+    {
+      "name": "Redmi note 12pro",
+      "price": "20000",
+      "color": "white",
+      "category": "mobile",
+      "description": "good product",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Redmi_Note_10_Pro_front_with_in-box_cover.jpg",
+      "quantity": 1,
+      "userId": 6,
+      "productId": 12,
+      "id": 15
+    }
+  ],
+  "orders": [
+    {
+      "email": "sagar45@gmail.com",
+      "address": "A/P-Takalimiya Tal-Rahuri Dist-Ahmednagar",
+      "contact": "25522552",
+      "totalPrice": 252100,
+      "userId": 5,
+      "id": 1
+    },
+    {
+      "email": "pratik1121999@gmail.com",
+      "address": "A/P-Takalimiya Tal-Rahuri Dist-Ahmednagar",
+      "contact": "25522552",
+      "totalPrice": 18100,
+      "userId": 5,
+      "id": 2
+    },
+    {
+      "email": "pratik1121999@gmail.com",
+      "address": "A/P-Takalimiya Tal-Rahuri Dist-Ahmednagar",
+      "contact": "5533333",
+      "totalPrice": 1449.1000000000001,
+      "userId": 6,
+      "id": 3
+    }
+  ]
+}
